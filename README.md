@@ -25,4 +25,6 @@ O dashboard conta com análises dinâmicas que incluem:
 - **Power BI:** Criação de visuais e formatação de dashboards.
 - **DAX:** Modelagem de dados, alteração de contexto de filtro (CALCULATE) e funções de iteração e contagem.
 
-*(Adicione aqui a imagem do seu dashboard para ilustrar o repositório)*
+Os dados são públicos e disponibilizados através do Maven Analytics(https://mavenanalytics.io/data-playground/pizza-place-sales)
+
+(./Dashboard/Dashboard Pedidos Pizzaria.png)

@@ -27,4 +27,4 @@ O dashboard conta com análises dinâmicas que incluem:
 
 Os dados são públicos e disponibilizados através do Maven Analytics(https://mavenanalytics.io/data-playground/pizza-place-sales)
 
-(./Dashboard/Dashboard Pedidos Pizzaria.png)
+![Dashboard Pedidos Pizzaria](./Dashboard/Dashboard Pedidos Pizzaria.png)
